@@ -1,0 +1,534 @@
+Month ,Year,Customer,Country,Company Size,Industry,Revenue
+April,2022.0,Customer #75,Italy,51-100 Employees,Chemical,7385.0
+February,2023.0,Customer #27,Italy,11-50 Employees,Bevarage,9502.0
+October,2023.0,Customer #82,Norway,11-50 Employees,Food,2505.0
+random_text,nan,,,,,nan
+March,2022.0,Customer #104,Italy,11-50 Employees,Bevarage,14605.0
+June,2022.0,Customer #57,Italy,11-50 Employees,Bevarage,8315.0
+random_text,2023.0,Customer #70,Germany,1-10 Employees,Food,4348.0
+August,2022.0,Customer #26,Italy,100-1000 Employees,Food,7172.0
+February,2023.0,Customer #18,Italy,11-50 Employees,Bevarage,8674.0
+November,2022.0,Customer #83,France,11-50 Employees,Chemical,12291.0
+January,2022.0,Customer #17,random_text,random_text,Bevarage,11992.0
+March,2023.0,Customer #106,Italy,100-1000 Employees,Food,2031.0
+September,2022.0,Customer #64,Italy,11-50 Employees,Bevarage,7204.0
+May,2023.0,Customer #71,USA,51-100 Employees,Bevarage,9153.0
+September,2022.0,Customer #90,Germany,random_text,Food,4366.0
+November,2022.0,Customer #35,Italy,51-100 Employees,Chemical,6000.0
+,nan,,,,,nan
+July,2023.0,Customer #24,Italy,11-50 Employees,Bevarage,4255.0
+random_text,2023.0,Customer #87,Italy,11-50 Employees,Bevarage,4115.0
+March,2022.0,Customer #3,France,11-50 Employees,Chemical,6253.0
+October,2023.0,Customer #81,USA,51-100 Employees,Bevarage,9026.0
+August,random_text,Customer #61,USA,51-100 Employees,Bevarage,1426.0
+August,random_text,Customer #105,Italy,51-100 Employees,Chemical,14978.0
+May,2023.0,Customer #75,Italy,51-100 Employees,Chemical,11606.0
+September,2022.0,Customer #100,Germany,1-10 Employees,random_text,3057.0
+March,2022.0,Customer #5,Italy,51-100 Employees,Chemical,10741.0
+March,2023.0,Customer #107,Italy,11-50 Employees,Other,5137.0
+February,2022.0,random_text,Italy,11-50 Employees,Bevarage,10799.0
+November,2022.0,Customer #18,Italy,11-50 Employees,Bevarage,13548.0
+July,2022.0,Customer #19,Italy,11-50 Employees,Bevarage,7821.0
+December,random_text,Customer #8,Italy,11-50 Employees,Bevarage,3637.0
+August,2022.0,Customer #42,Norway,11-50 Employees,Food,2195.0
+,nan,,,,,nan
+March,2022.0,Customer #74,Italy,11-50 Employees,Bevarage,2465.0
+random_text,2023.0,Customer #101,USA,51-100 Employees,Bevarage,4949.0
+September,2023.0,random_text,Norway,11-50 Employees,Food,11995.0
+,random_text,,,,,nan
+January,2022.0,Customer #50,Germany,1-10 Employees,Food,15521.0
+,nan,,,,,random_text
+March,2022.0,Customer #72,Norway,11-50 Employees,Food,9103.0
+January,2022.0,Customer #23,France,11-50 Employees,Other,13054.0
+March,random_text,Customer #92,Norway,11-50 Employees,Food,12619.0
+,nan,,,,,nan
+January,2023.0,Customer #5,Italy,51-100 Employees,Chemical,13021.0
+July,2023.0,Customer #98,Italy,11-50 Employees,Bevarage,2935.0
+August,2022.0,Customer #54,Italy,11-50 Employees,Bevarage,1202.0
+March,2022.0,Customer #99,Italy,11-50 Employees,Bevarage,4832.0
+October,2023.0,Customer #28,Italy,11-50 Employees,Bevarage,10986.0
+December,2022.0,Customer #39,Italy,11-50 Employees,Bevarage,5156.0
+February,2023.0,Customer #48,random_text,11-50 Employees,Bevarage,17682.0
+March,2023.0,Customer #47,Italy,11-50 Employees,Bevarage,16805.0
+random_text,2023.0,Customer #48,Italy,11-50 Employees,Bevarage,7967.0
+December,2023.0,Customer #48,Italy,11-50 Employees,Bevarage,15960.0
+August,2023.0,Customer #72,Norway,11-50 Employees,random_text,16410.0
+March,2022.0,Customer #74,random_text,11-50 Employees,Bevarage,3901.0
+October,2023.0,Customer #105,Italy,51-100 Employees,Chemical,16310.0
+January,2022.0,Customer #63,France,11-50 Employees,Chemical,8991.0
+March,2023.0,Customer #66,Italy,100-1000 Employees,Food,11885.0
+March,2022.0,Customer #49,Italy,11-50 Employees,Bevarage,9787.0
+October,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,9785.0
+October,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,15607.0
+December,2023.0,Customer #36,Italy,100-1000 Employees,Food,9498.0
+random_text,random_text,,,,,nan
+random_text,2023.0,Customer #60,Germany,1-10 Employees,Food,2434.0
+November,2022.0,Customer #16,Italy,100-1000 Employees,Food,random_text
+,nan,,,,random_text,nan
+October,2023.0,Customer #18,Italy,11-50 Employees,Bevarage,6849.0
+June,2023.0,Customer #102,Norway,11-50 Employees,Food,2495.0
+December,2022.0,Customer #97,Italy,11-50 Employees,Bevarage,8582.0
+April,2023.0,Customer #44,Italy,11-50 Employees,Bevarage,13471.0
+September,2022.0,Customer #44,Italy,11-50 Employees,Bevarage,15993.0
+December,2022.0,Customer #32,Norway,random_text,Food,12780.0
+August,2022.0,Customer #46,Italy,100-1000 Employees,Food,random_text
+April,2023.0,Customer #54,Italy,11-50 Employees,Bevarage,1848.0
+April,2023.0,Customer #98,Italy,11-50 Employees,Bevarage,4068.0
+November,2023.0,random_text,Italy,51-100 Employees,Chemical,9902.0
+March,2023.0,Customer #77,Italy,11-50 Employees,Bevarage,16762.0
+June,2023.0,Customer #58,Italy,11-50 Employees,Bevarage,10290.0
+June,2023.0,random_text,USA,51-100 Employees,Bevarage,1296.0
+December,2022.0,Customer #23,France,11-50 Employees,Other,random_text
+May,2022.0,Customer #76,Italy,100-1000 Employees,Food,1094.0
+February,2023.0,Customer #90,Germany,1-10 Employees,Food,3943.0
+February,2023.0,Customer #48,Italy,11-50 Employees,Bevarage,15937.0
+April,2023.0,Customer #52,Norway,11-50 Employees,Food,3007.0
+random_text,2023.0,Customer #104,Italy,11-50 Employees,Bevarage,9786.0
+March,2022.0,Customer #94,Italy,11-50 Employees,Bevarage,12669.0
+August,2022.0,Customer #33,France,random_text,Chemical,11094.0
+May,2022.0,Customer #100,Germany,random_text,Food,14951.0
+April,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,12612.0
+,nan,,random_text,,,nan
+,nan,,,,,nan
+March,2022.0,Customer #22,Norway,11-50 Employees,Food,4292.0
+August,2022.0,random_text,Italy,11-50 Employees,Bevarage,7402.0
+April,2023.0,Customer #76,Italy,100-1000 Employees,Food,14683.0
+April,random_text,Customer #75,Italy,51-100 Employees,Chemical,9809.0
+November,2023.0,Customer #15,Italy,51-100 Employees,Chemical,11705.0
+June,2022.0,Customer #58,Italy,11-50 Employees,Bevarage,1164.0
+September,2022.0,Customer #63,France,11-50 Employees,Chemical,17647.0
+March,2022.0,Customer #63,France,11-50 Employees,Chemical,random_text
+February,2023.0,Customer #47,Italy,11-50 Employees,random_text,1875.0
+October,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,16014.0
+random_text,2023.0,Customer #9,Italy,11-50 Employees,Bevarage,9708.0
+October,2023.0,Customer #94,Italy,11-50 Employees,Bevarage,7563.0
+March,2023.0,Customer #45,Italy,51-100 Employees,Chemical,16656.0
+October,2023.0,Customer #46,Italy,100-1000 Employees,Food,13218.0
+random_text,2023.0,Customer #34,Italy,11-50 Employees,Bevarage,random_text
+,nan,,,,,nan
+October,2023.0,Customer #25,Italy,51-100 Employees,random_text,7064.0
+July,2023.0,Customer #5,random_text,51-100 Employees,Chemical,2204.0
+March,2023.0,Customer #26,Italy,100-1000 Employees,Food,8815.0
+October,random_text,Customer #103,France,11-50 Employees,Chemical,12905.0
+March,2023.0,Customer #22,Norway,11-50 Employees,Food,10787.0
+June,2023.0,Customer #82,Norway,11-50 Employees,Food,8056.0
+,nan,,,,,nan
+March,2022.0,Customer #6,Italy,100-1000 Employees,Food,12493.0
+March,2023.0,Customer #33,France,11-50 Employees,Chemical,5202.0
+August,2023.0,Customer #58,Italy,11-50 Employees,Bevarage,8845.0
+,nan,,,,,nan
+December,2022.0,Customer #53,France,11-50 Employees,Chemical,17049.0
+March,2023.0,Customer #51,USA,51-100 Employees,Bevarage,16319.0
+March,2022.0,Customer #59,Italy,random_text,Bevarage,9914.0
+March,2023.0,Customer #46,Italy,100-1000 Employees,random_text,9116.0
+December,2022.0,Customer #86,Italy,100-1000 Employees,Food,3699.0
+September,2022.0,Customer #35,Italy,51-100 Employees,Chemical,6223.0
+July,2022.0,Customer #100,Germany,1-10 Employees,Food,7472.0
+August,2022.0,Customer #76,Italy,100-1000 Employees,Food,5244.0
+October,2022.0,Customer #3,France,11-50 Employees,Chemical,14931.0
+October,random_text,Customer #21,USA,51-100 Employees,Bevarage,12316.0
+June,2022.0,Customer #96,Italy,100-1000 Employees,Food,11776.0
+October,2023.0,Customer #91,USA,random_text,Bevarage,16552.0
+March,2022.0,Customer #90,Germany,1-10 Employees,Food,15615.0
+,nan,,random_text,,,nan
+December,2022.0,Customer #64,Italy,11-50 Employees,Bevarage,2734.0
+,nan,,,,random_text,nan
+,random_text,,,random_text,,nan
+,nan,,,,,nan
+August,2022.0,Customer #69,Italy,11-50 Employees,Bevarage,5465.0
+March,random_text,Customer #23,France,11-50 Employees,Other,4074.0
+October,2022.0,Customer #88,Italy,11-50 Employees,random_text,17685.0
+,nan,,,,,nan
+March,2023.0,Customer #15,Italy,51-100 Employees,Chemical,2044.0
+August,2023.0,Customer #53,France,11-50 Employees,Chemical,12977.0
+August,random_text,Customer #42,Norway,11-50 Employees,random_text,14484.0
+September,2022.0,Customer #89,Italy,11-50 Employees,Bevarage,16950.0
+March,2023.0,Customer #72,Norway,11-50 Employees,Food,5560.0
+September,2022.0,Customer #90,Germany,1-10 Employees,Food,1994.0
+March,2023.0,Customer #83,France,11-50 Employees,Chemical,1717.0
+February,2023.0,Customer #82,Norway,11-50 Employees,Food,9682.0
+February,2023.0,Customer #35,Italy,51-100 Employees,Chemical,7385.0
+November,2023.0,Customer #43,France,11-50 Employees,Chemical,random_text
+,nan,,,,,nan
+April,2023.0,Customer #42,random_text,11-50 Employees,Food,1755.0
+September,2023.0,Customer #44,Italy,11-50 Employees,Bevarage,13344.0
+January,2022.0,Customer #101,USA,51-100 Employees,Bevarage,5315.0
+January,2023.0,Customer #55,Italy,51-100 Employees,Chemical,11045.0
+,nan,,,,,nan
+March,2022.0,Customer #1,USA,51-100 Employees,Bevarage,4568.0
+random_text,2022.0,Customer #98,Italy,11-50 Employees,Bevarage,9614.0
+December,2022.0,Customer #20,Germany,1-10 Employees,Food,1499.0
+,nan,,,,,random_text
+March,2023.0,Customer #56,Italy,100-1000 Employees,Food,13207.0
+August,2022.0,Customer #82,random_text,11-50 Employees,Food,13910.0
+,nan,,,,,nan
+April,2022.0,Customer #48,Italy,11-50 Employees,Bevarage,14406.0
+October,random_text,Customer #1,USA,51-100 Employees,Bevarage,10442.0
+October,2023.0,Customer #31,USA,51-100 Employees,Bevarage,4356.0
+October,2023.0,Customer #24,Italy,11-50 Employees,Bevarage,16066.0
+October,2023.0,Customer #100,Germany,1-10 Employees,Food,14219.0
+December,2023.0,Customer #62,Norway,11-50 Employees,Food,1834.0
+April,2022.0,Customer #107,random_text,11-50 Employees,random_text,11686.0
+May,2022.0,Customer #12,Norway,11-50 Employees,Food,15021.0
+February,2022.0,Customer #20,Germany,1-10 Employees,Food,10307.0
+random_text,2022.0,Customer #27,Italy,11-50 Employees,Bevarage,17818.0
+August,2023.0,Customer #101,USA,51-100 Employees,Bevarage,8956.0
+November,2022.0,Customer #45,Italy,51-100 Employees,random_text,6311.0
+,nan,,,,,nan
+March,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,5142.0
+July,2022.0,Customer #58,Italy,11-50 Employees,Bevarage,15126.0
+October,2023.0,Customer #54,Italy,11-50 Employees,Bevarage,6926.0
+August,2022.0,Customer #66,Italy,100-1000 Employees,Food,1937.0
+September,2023.0,Customer #5,Italy,51-100 Employees,Chemical,6633.0
+September,2023.0,Customer #14,Italy,11-50 Employees,Bevarage,7819.0
+April,2022.0,Customer #35,Italy,51-100 Employees,Chemical,16349.0
+January,2022.0,Customer #52,random_text,random_text,Food,11355.0
+March,2023.0,Customer #63,France,11-50 Employees,Chemical,5513.0
+February,2023.0,Customer #30,Germany,random_text,Food,14938.0
+February,2022.0,Customer #86,Italy,100-1000 Employees,Food,17809.0
+January,2023.0,Customer #26,Italy,100-1000 Employees,Food,5793.0
+January,2023.0,Customer #82,Norway,11-50 Employees,Food,3565.0
+April,2023.0,Customer #6,Italy,100-1000 Employees,Food,9967.0
+December,2022.0,Customer #74,Italy,11-50 Employees,Bevarage,4740.0
+January,2022.0,Customer #107,Italy,11-50 Employees,Other,2787.0
+March,2022.0,Customer #52,Norway,11-50 Employees,Food,13564.0
+July,2022.0,Customer #66,Italy,100-1000 Employees,Food,15971.0
+July,2023.0,Customer #49,Italy,11-50 Employees,Bevarage,12810.0
+December,2023.0,Customer #67,Italy,11-50 Employees,Bevarage,1920.0
+October,2022.0,Customer #35,Italy,51-100 Employees,Chemical,15014.0
+August,2022.0,random_text,Italy,100-1000 Employees,Food,6465.0
+March,2022.0,Customer #40,Germany,1-10 Employees,Food,3632.0
+June,2022.0,Customer #49,Italy,11-50 Employees,Bevarage,13675.0
+May,2022.0,Customer #98,Italy,11-50 Employees,Bevarage,1191.0
+random_text,2022.0,Customer #92,Norway,11-50 Employees,Food,13959.0
+January,random_text,Customer #62,Norway,11-50 Employees,Food,7325.0
+October,2023.0,Customer #1,USA,51-100 Employees,Bevarage,14546.0
+November,2023.0,Customer #34,Italy,11-50 Employees,Bevarage,14394.0
+March,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,10499.0
+random_text,2023.0,Customer #33,France,11-50 Employees,Chemical,2947.0
+June,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,17899.0
+February,2023.0,Customer #101,USA,51-100 Employees,Bevarage,8349.0
+February,2023.0,Customer #103,France,random_text,Chemical,4983.0
+May,2023.0,Customer #35,Italy,51-100 Employees,Chemical,4210.0
+February,2023.0,Customer #84,Italy,11-50 Employees,Bevarage,5095.0
+January,2022.0,Customer #100,Germany,1-10 Employees,Food,15499.0
+May,2022.0,random_text,Italy,51-100 Employees,Chemical,9533.0
+January,2023.0,Customer #92,Norway,11-50 Employees,Food,2218.0
+November,2023.0,Customer #62,Norway,11-50 Employees,Food,9402.0
+April,2023.0,Customer #6,Italy,100-1000 Employees,Food,10057.0
+December,2023.0,Customer #69,Italy,11-50 Employees,Bevarage,11214.0
+March,2022.0,Customer #76,Italy,100-1000 Employees,Food,15061.0
+March,2023.0,Customer #63,France,11-50 Employees,Chemical,1967.0
+random_text,2022.0,Customer #33,France,random_text,Chemical,5196.0
+March,2022.0,Customer #95,random_text,51-100 Employees,Chemical,12447.0
+March,2023.0,Customer #35,Italy,51-100 Employees,Chemical,9383.0
+April,2023.0,Customer #47,Italy,11-50 Employees,Bevarage,random_text
+,nan,random_text,,,,nan
+August,2022.0,Customer #104,Italy,11-50 Employees,Bevarage,5750.0
+March,2022.0,Customer #72,Norway,11-50 Employees,random_text,14448.0
+May,2023.0,Customer #27,Italy,11-50 Employees,Bevarage,2691.0
+December,2022.0,Customer #3,France,11-50 Employees,Chemical,12686.0
+November,random_text,random_text,Italy,100-1000 Employees,Food,6986.0
+October,2023.0,Customer #13,France,11-50 Employees,Chemical,4278.0
+September,2023.0,Customer #35,Italy,51-100 Employees,Chemical,2654.0
+June,2023.0,Customer #28,Italy,11-50 Employees,Bevarage,4212.0
+,nan,,,,,nan
+December,2023.0,Customer #27,Italy,11-50 Employees,Bevarage,5030.0
+November,2022.0,Customer #74,Italy,11-50 Employees,Bevarage,9332.0
+,nan,,,,,nan
+May,2022.0,Customer #11,USA,51-100 Employees,Bevarage,12047.0
+December,2022.0,Customer #87,Italy,11-50 Employees,Bevarage,11851.0
+July,2022.0,Customer #59,Italy,11-50 Employees,Bevarage,8087.0
+June,2022.0,Customer #103,France,11-50 Employees,Chemical,12310.0
+August,2023.0,Customer #4,Italy,11-50 Employees,Bevarage,7145.0
+May,2023.0,Customer #12,Norway,11-50 Employees,Food,4956.0
+,nan,random_text,,,,nan
+,nan,random_text,random_text,,random_text,nan
+May,2023.0,Customer #61,USA,51-100 Employees,Bevarage,13414.0
+February,2022.0,Customer #40,Germany,random_text,Food,15354.0
+April,2022.0,random_text,USA,random_text,Bevarage,11042.0
+January,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,3245.0
+December,2022.0,Customer #39,Italy,11-50 Employees,Bevarage,11839.0
+October,2023.0,Customer #29,Italy,11-50 Employees,Bevarage,13071.0
+May,2023.0,Customer #83,France,11-50 Employees,Chemical,random_text
+,nan,,,random_text,,nan
+December,2022.0,random_text,Italy,51-100 Employees,Chemical,9143.0
+December,2022.0,Customer #23,France,11-50 Employees,Other,3259.0
+August,2023.0,Customer #10,Germany,1-10 Employees,Food,2786.0
+,nan,,,,,nan
+July,2023.0,Customer #49,Italy,11-50 Employees,Bevarage,3732.0
+February,2023.0,Customer #16,Italy,100-1000 Employees,Food,5565.0
+May,2023.0,Customer #100,Germany,1-10 Employees,Food,13011.0
+August,2023.0,Customer #40,Germany,1-10 Employees,Food,14813.0
+,nan,,,,,nan
+June,2022.0,Customer #61,USA,51-100 Employees,Bevarage,15057.0
+November,2023.0,Customer #8,Italy,11-50 Employees,Bevarage,9868.0
+August,2022.0,Customer #60,Germany,1-10 Employees,random_text,9274.0
+February,2023.0,Customer #64,Italy,11-50 Employees,Bevarage,16308.0
+July,2022.0,Customer #71,USA,51-100 Employees,Bevarage,1603.0
+May,2023.0,random_text,Norway,11-50 Employees,Food,5871.0
+August,2023.0,Customer #43,France,11-50 Employees,random_text,10177.0
+May,2022.0,Customer #59,random_text,11-50 Employees,Bevarage,5864.0
+March,2023.0,Customer #71,USA,51-100 Employees,Bevarage,2583.0
+November,2022.0,Customer #10,Germany,1-10 Employees,Food,random_text
+January,2023.0,Customer #70,Germany,1-10 Employees,Food,3746.0
+March,2023.0,Customer #94,Italy,11-50 Employees,Bevarage,1916.0
+July,2023.0,Customer #88,Italy,11-50 Employees,Bevarage,17564.0
+February,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,10108.0
+November,2023.0,Customer #62,Norway,11-50 Employees,Food,10389.0
+December,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,9716.0
+May,2022.0,Customer #44,Italy,11-50 Employees,Bevarage,15285.0
+November,2023.0,Customer #35,Italy,51-100 Employees,Chemical,2774.0
+October,2022.0,Customer #99,Italy,11-50 Employees,Bevarage,5618.0
+July,2023.0,Customer #44,Italy,11-50 Employees,Bevarage,10942.0
+April,2023.0,Customer #5,Italy,51-100 Employees,Chemical,4480.0
+May,2023.0,Customer #6,Italy,100-1000 Employees,Food,17043.0
+October,2023.0,Customer #106,Italy,100-1000 Employees,Food,14072.0
+April,2022.0,Customer #8,Italy,11-50 Employees,Bevarage,9340.0
+March,2022.0,Customer #75,random_text,51-100 Employees,Chemical,8683.0
+May,2022.0,Customer #26,Italy,100-1000 Employees,Food,11553.0
+February,2023.0,random_text,Italy,51-100 Employees,Chemical,4523.0
+February,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,16256.0
+October,2023.0,Customer #35,Italy,51-100 Employees,Chemical,17150.0
+September,2023.0,Customer #23,France,11-50 Employees,Other,random_text
+April,2023.0,Customer #8,Italy,11-50 Employees,Bevarage,8950.0
+October,2023.0,Customer #27,Italy,11-50 Employees,random_text,12541.0
+October,2022.0,Customer #41,USA,51-100 Employees,Bevarage,2446.0
+February,2022.0,Customer #42,Norway,11-50 Employees,Food,1815.0
+November,2022.0,Customer #100,Germany,1-10 Employees,Food,5707.0
+February,random_text,Customer #14,Italy,11-50 Employees,Bevarage,10919.0
+October,random_text,Customer #84,Italy,11-50 Employees,Bevarage,13888.0
+October,random_text,Customer #90,Germany,1-10 Employees,Food,random_text
+March,2023.0,Customer #27,random_text,11-50 Employees,Bevarage,16679.0
+May,2022.0,Customer #56,Italy,100-1000 Employees,Food,3541.0
+random_text,2022.0,Customer #17,Italy,11-50 Employees,Bevarage,12649.0
+November,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,9848.0
+random_text,2022.0,Customer #99,Italy,11-50 Employees,Bevarage,6447.0
+November,random_text,Customer #69,Italy,11-50 Employees,Bevarage,6493.0
+November,2023.0,Customer #53,France,11-50 Employees,Chemical,15297.0
+August,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,7918.0
+February,2023.0,Customer #94,Italy,11-50 Employees,Bevarage,8264.0
+random_text,2022.0,Customer #33,France,11-50 Employees,Chemical,16032.0
+December,2023.0,Customer #91,USA,random_text,Bevarage,2929.0
+May,2022.0,Customer #46,Italy,100-1000 Employees,Food,9281.0
+September,2022.0,Customer #1,random_text,51-100 Employees,Bevarage,2983.0
+July,2023.0,Customer #97,Italy,random_text,Bevarage,11949.0
+November,2023.0,Customer #46,Italy,100-1000 Employees,Food,13842.0
+May,2022.0,Customer #71,USA,random_text,Bevarage,9620.0
+January,2023.0,Customer #2,Norway,11-50 Employees,Food,14382.0
+January,2023.0,Customer #61,random_text,51-100 Employees,Bevarage,11592.0
+August,2023.0,Customer #31,random_text,51-100 Employees,Bevarage,8618.0
+May,2023.0,Customer #53,France,11-50 Employees,Chemical,7208.0
+January,2022.0,Customer #106,Italy,100-1000 Employees,Food,13290.0
+November,2023.0,Customer #7,Italy,11-50 Employees,Bevarage,19591.0
+October,2023.0,Customer #39,Italy,11-50 Employees,Bevarage,7984.0
+November,random_text,Customer #13,France,11-50 Employees,Chemical,7255.0
+March,2023.0,Customer #63,France,11-50 Employees,Chemical,4758.0
+random_text,2023.0,Customer #79,Italy,11-50 Employees,Bevarage,3928.0
+December,2022.0,Customer #4,Italy,11-50 Employees,random_text,5559.0
+March,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,2337.0
+September,2022.0,Customer #65,Italy,random_text,Chemical,3929.0
+February,2023.0,Customer #104,Italy,11-50 Employees,Bevarage,random_text
+November,2023.0,Customer #24,Italy,11-50 Employees,Bevarage,15546.0
+April,2022.0,Customer #33,France,11-50 Employees,Chemical,17691.0
+,nan,,,,,nan
+November,2023.0,Customer #97,random_text,11-50 Employees,Bevarage,10347.0
+September,2022.0,Customer #70,Germany,1-10 Employees,Food,4666.0
+October,2023.0,Customer #42,Norway,11-50 Employees,random_text,2567.0
+February,2023.0,Customer #46,Italy,100-1000 Employees,Food,2767.0
+October,2023.0,Customer #5,Italy,51-100 Employees,Chemical,15147.0
+October,2022.0,Customer #31,USA,51-100 Employees,Bevarage,9617.0
+,nan,,,,,nan
+November,2023.0,Customer #22,Norway,11-50 Employees,Food,9499.0
+February,2023.0,Customer #18,Italy,11-50 Employees,Bevarage,8200.0
+August,2022.0,Customer #17,Italy,11-50 Employees,Bevarage,15830.0
+May,2022.0,Customer #11,random_text,random_text,Bevarage,8740.0
+January,2022.0,Customer #76,Italy,100-1000 Employees,Food,5315.0
+May,2023.0,Customer #14,Italy,11-50 Employees,Bevarage,12282.0
+,nan,,,,,nan
+February,2022.0,Customer #14,Italy,11-50 Employees,Bevarage,2600.0
+December,2023.0,random_text,France,11-50 Employees,Chemical,random_text
+February,2022.0,Customer #50,Germany,1-10 Employees,Food,5372.0
+January,2023.0,Customer #76,Italy,100-1000 Employees,Food,15308.0
+November,2023.0,Customer #105,random_text,51-100 Employees,Chemical,9734.0
+August,2023.0,Customer #17,Italy,11-50 Employees,Bevarage,6948.0
+November,2023.0,Customer #44,Italy,11-50 Employees,Bevarage,8128.0
+November,2022.0,Customer #86,Italy,100-1000 Employees,Food,9298.0
+February,2023.0,Customer #56,Italy,100-1000 Employees,Food,random_text
+February,2023.0,Customer #7,Italy,11-50 Employees,Bevarage,11593.0
+February,random_text,Customer #6,Italy,100-1000 Employees,Food,2445.0
+March,2022.0,Customer #96,Italy,100-1000 Employees,Food,11860.0
+October,2022.0,Customer #69,Italy,11-50 Employees,Bevarage,11640.0
+September,2022.0,Customer #31,USA,51-100 Employees,Bevarage,15095.0
+November,2022.0,Customer #12,Norway,11-50 Employees,Food,15709.0
+October,2023.0,Customer #28,Italy,11-50 Employees,Bevarage,9754.0
+April,2022.0,Customer #106,Italy,100-1000 Employees,Food,13657.0
+October,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,6178.0
+random_text,2023.0,Customer #94,Italy,11-50 Employees,Bevarage,13955.0
+April,2023.0,Customer #21,USA,51-100 Employees,Bevarage,5119.0
+July,2023.0,Customer #60,Germany,1-10 Employees,random_text,9448.0
+November,2023.0,Customer #87,Italy,11-50 Employees,Bevarage,15079.0
+November,2022.0,Customer #71,USA,51-100 Employees,Bevarage,5179.0
+February,2022.0,Customer #20,random_text,1-10 Employees,Food,14039.0
+February,2023.0,random_text,Germany,1-10 Employees,Food,6714.0
+January,2023.0,Customer #45,Italy,51-100 Employees,Chemical,2917.0
+,nan,,,,,nan
+random_text,2023.0,Customer #7,Italy,11-50 Employees,Bevarage,random_text
+March,2022.0,Customer #38,Italy,11-50 Employees,Bevarage,10232.0
+,nan,,,,,nan
+November,2022.0,Customer #100,Germany,1-10 Employees,Food,11215.0
+,nan,,,,,nan
+May,2023.0,Customer #65,random_text,51-100 Employees,Chemical,6112.0
+April,2023.0,Customer #6,Italy,100-1000 Employees,Food,1406.0
+,nan,,,,,nan
+June,2023.0,Customer #80,Germany,1-10 Employees,Food,13931.0
+May,2023.0,Customer #34,Italy,11-50 Employees,Bevarage,8961.0
+November,2022.0,Customer #9,Italy,11-50 Employees,Bevarage,12749.0
+May,2023.0,Customer #28,Italy,11-50 Employees,Bevarage,8619.0
+May,2022.0,Customer #71,USA,51-100 Employees,Bevarage,4344.0
+July,2022.0,Customer #35,Italy,random_text,Chemical,11088.0
+September,2022.0,Customer #67,Italy,random_text,Bevarage,2289.0
+random_text,2023.0,Customer #42,Norway,11-50 Employees,Food,1332.0
+August,2022.0,Customer #2,Norway,11-50 Employees,Food,10666.0
+September,2022.0,Customer #19,Italy,11-50 Employees,Bevarage,16416.0
+,nan,,,,,nan
+March,2023.0,Customer #36,Italy,100-1000 Employees,Food,16875.0
+September,2022.0,random_text,Germany,1-10 Employees,Food,1950.0
+May,2022.0,Customer #3,France,11-50 Employees,Chemical,6547.0
+September,2022.0,random_text,France,11-50 Employees,Chemical,10033.0
+July,2022.0,Customer #105,Italy,random_text,Chemical,7588.0
+November,2022.0,Customer #100,Germany,1-10 Employees,Food,8640.0
+March,2023.0,Customer #69,Italy,11-50 Employees,Bevarage,15170.0
+May,random_text,Customer #59,Italy,11-50 Employees,Bevarage,10492.0
+June,2022.0,Customer #101,USA,51-100 Employees,Bevarage,15463.0
+August,2022.0,Customer #90,Germany,1-10 Employees,Food,5539.0
+August,2022.0,Customer #47,Italy,11-50 Employees,Bevarage,16523.0
+May,2023.0,random_text,random_text,11-50 Employees,Bevarage,14942.0
+June,2023.0,Customer #51,USA,51-100 Employees,Bevarage,random_text
+March,2023.0,Customer #87,Italy,11-50 Employees,Bevarage,6497.0
+,random_text,,,,,nan
+May,2022.0,Customer #102,Norway,11-50 Employees,Food,random_text
+October,2023.0,Customer #84,Italy,11-50 Employees,Bevarage,12684.0
+September,2023.0,Customer #32,Norway,11-50 Employees,Food,random_text
+,nan,,,,,nan
+March,2023.0,Customer #79,Italy,11-50 Employees,Bevarage,8122.0
+May,2023.0,Customer #36,Italy,100-1000 Employees,Food,8945.0
+January,2023.0,Customer #93,France,11-50 Employees,Chemical,4436.0
+November,2022.0,Customer #43,France,11-50 Employees,Chemical,17656.0
+January,2023.0,Customer #22,Norway,11-50 Employees,Food,9755.0
+random_text,2023.0,Customer #91,USA,51-100 Employees,Bevarage,4359.0
+,nan,,,,,nan
+random_text,2023.0,Customer #107,random_text,11-50 Employees,Other,13948.0
+April,2023.0,Customer #56,Italy,100-1000 Employees,Food,7509.0
+random_text,2022.0,Customer #39,Italy,11-50 Employees,Bevarage,4350.0
+February,2023.0,Customer #93,France,11-50 Employees,Chemical,11190.0
+June,2022.0,Customer #51,USA,random_text,Bevarage,14565.0
+October,2023.0,Customer #18,Italy,11-50 Employees,Bevarage,12548.0
+May,2023.0,Customer #99,Italy,11-50 Employees,Bevarage,11892.0
+November,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,7341.0
+August,2023.0,random_text,Germany,1-10 Employees,Food,12740.0
+September,2022.0,Customer #94,Italy,11-50 Employees,Bevarage,14457.0
+August,2022.0,Customer #46,random_text,100-1000 Employees,Food,4409.0
+March,2023.0,Customer #80,random_text,1-10 Employees,Food,13217.0
+,nan,,,,,nan
+November,2022.0,Customer #81,USA,51-100 Employees,Bevarage,12945.0
+December,2023.0,Customer #11,USA,51-100 Employees,Bevarage,7228.0
+,nan,,,,,nan
+January,2022.0,Customer #70,Germany,1-10 Employees,Food,13922.0
+March,2023.0,Customer #4,Italy,11-50 Employees,Bevarage,5050.0
+September,2022.0,Customer #42,Norway,11-50 Employees,Food,10995.0
+September,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,2459.0
+October,2023.0,random_text,Italy,100-1000 Employees,Food,12414.0
+November,2022.0,Customer #50,Germany,1-10 Employees,Food,14965.0
+October,2022.0,Customer #98,Italy,11-50 Employees,Bevarage,13818.0
+December,2022.0,Customer #73,France,11-50 Employees,Chemical,17581.0
+October,2022.0,Customer #63,France,11-50 Employees,Chemical,12736.0
+March,2022.0,Customer #1,USA,51-100 Employees,Bevarage,4568.0
+random_text,2022.0,Customer #75,Italy,51-100 Employees,Chemical,8683.0
+,nan,,,,,nan
+April,2022.0,Customer #48,Italy,11-50 Employees,Bevarage,14406.0
+March,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,2337.0
+,nan,,,,,nan
+,nan,,,,,nan
+April,2023.0,Customer #104,Italy,11-50 Employees,random_text,9786.0
+March,random_text,Customer #83,France,11-50 Employees,random_text,1717.0
+April,2023.0,Customer #6,Italy,100-1000 Employees,Food,10057.0
+November,2022.0,Customer #100,Germany,1-10 Employees,Food,11215.0
+November,2023.0,Customer #97,Italy,11-50 Employees,Bevarage,7341.0
+June,2022.0,Customer #57,Italy,random_text,Bevarage,8315.0
+May,2022.0,Customer #56,Italy,100-1000 Employees,Food,3541.0
+February,2023.0,Customer #101,USA,51-100 Employees,Bevarage,8349.0
+September,2022.0,Customer #64,Italy,11-50 Employees,Bevarage,7204.0
+,nan,,,,,nan
+March,2022.0,Customer #72,Norway,11-50 Employees,random_text,9103.0
+October,random_text,Customer #18,Italy,11-50 Employees,Bevarage,12548.0
+October,2023.0,Customer #18,Italy,11-50 Employees,Bevarage,6849.0
+October,2023.0,Customer #91,USA,51-100 Employees,Bevarage,4359.0
+March,2023.0,random_text,Norway,11-50 Employees,Food,5560.0
+August,2022.0,Customer #76,Italy,100-1000 Employees,Food,5244.0
+,nan,,,,random_text,nan
+December,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,9716.0
+,nan,,,,,nan
+,nan,,,,,nan
+April,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,12612.0
+January,2022.0,Customer #17,Italy,11-50 Employees,Bevarage,11992.0
+November,2022.0,Customer #100,Germany,1-10 Employees,random_text,8640.0
+December,2022.0,Customer #39,Italy,11-50 Employees,Bevarage,5156.0
+March,2023.0,Customer #36,Italy,100-1000 Employees,Food,16875.0
+November,2023.0,Customer #105,Italy,51-100 Employees,Chemical,9734.0
+December,2022.0,Customer #73,France,11-50 Employees,Chemical,17581.0
+October,2023.0,Customer #106,Italy,100-1000 Employees,Food,random_text
+May,2022.0,Customer #46,Italy,100-1000 Employees,Food,random_text
+March,2023.0,Customer #63,France,11-50 Employees,Chemical,5513.0
+April,2022.0,Customer #8,Italy,11-50 Employees,Bevarage,9340.0
+December,2023.0,Customer #48,Italy,11-50 Employees,Bevarage,15960.0
+October,2022.0,Customer #99,Italy,11-50 Employees,Bevarage,5618.0
+February,2022.0,Customer #20,Germany,1-10 Employees,Food,14039.0
+July,2023.0,Customer #49,Italy,11-50 Employees,Bevarage,3732.0
+,nan,,,,,nan
+November,2022.0,random_text,Norway,11-50 Employees,Food,15709.0
+,nan,,,,,nan
+November,2022.0,Customer #83,France,11-50 Employees,Chemical,12291.0
+July,2023.0,Customer #5,Italy,51-100 Employees,Chemical,2204.0
+August,2022.0,Customer #60,Germany,1-10 Employees,Food,9274.0
+,nan,,,,,nan
+January,2023.0,Customer #92,Norway,11-50 Employees,Food,2218.0
+December,2022.0,Customer #20,Germany,1-10 Employees,Food,1499.0
+May,2022.0,Customer #11,USA,51-100 Employees,Bevarage,8740.0
+October,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,16014.0
+February,2023.0,Customer #27,Italy,11-50 Employees,Bevarage,random_text
+July,2022.0,random_text,Italy,11-50 Employees,Bevarage,6447.0
+random_text,2022.0,Customer #105,Italy,51-100 Employees,Chemical,14978.0
+February,2023.0,Customer #65,Italy,51-100 Employees,Chemical,4523.0
+April,2023.0,Customer #6,Italy,100-1000 Employees,Food,9967.0
+February,2023.0,Customer #74,Italy,11-50 Employees,Bevarage,10108.0
+March,2022.0,Customer #96,Italy,100-1000 Employees,Food,11860.0
+February,2023.0,Customer #7,Italy,11-50 Employees,random_text,11593.0
+February,2022.0,Customer #104,Italy,11-50 Employees,Bevarage,10799.0
+August,2022.0,Customer #42,Norway,11-50 Employees,Food,14484.0
+March,2023.0,Customer #4,Italy,11-50 Employees,Bevarage,5050.0
+May,2022.0,Customer #26,Italy,100-1000 Employees,random_text,random_text
+January,random_text,Customer #5,Italy,51-100 Employees,Chemical,random_text
+May,2022.0,Customer #71,USA,51-100 Employees,Bevarage,4344.0
+July,2022.0,Customer #100,Germany,1-10 Employees,Food,7472.0
+November,random_text,Customer #69,Italy,11-50 Employees,Bevarage,6493.0
+November,2023.0,Customer #13,France,11-50 Employees,Chemical,7255.0
+,nan,,,,,nan
+July,2022.0,Customer #59,Italy,11-50 Employees,Bevarage,8087.0
+March,2022.0,Customer #99,Italy,11-50 Employees,Bevarage,4832.0
+April,2023.0,Customer #8,Italy,11-50 Employees,random_text,8950.0
+February,2023.0,Customer #9,Italy,11-50 Employees,Bevarage,random_text
+April,2022.0,Customer #33,France,11-50 Employees,Chemical,17691.0
+January,2022.0,random_text,USA,random_text,Bevarage,5315.0
+March,2023.0,random_text,France,11-50 Employees,Chemical,4758.0
+February,2023.0,Customer #48,Italy,11-50 Employees,Bevarage,15937.0
+February,2022.0,Customer #7,Italy,11-50 Employees,Bevarage,16256.0
+October,2023.0,Customer #35,Italy,51-100 Employees,Chemical,17150.0
+January,2022.0,Customer #88,Italy,random_text,Bevarage,3245.0
+December,2022.0,Customer #97,Italy,11-50 Employees,Bevarage,8582.0
+February,2023.0,Customer #64,Italy,11-50 Employees,Bevarage,16308.0
+April,2023.0,Customer #5,Italy,51-100 Employees,Chemical,4480.0
+March,2022.0,Customer #94,Italy,11-50 Employees,Bevarage,12669.0
+November,2022.0,Customer #10,Germany,1-10 Employees,Food,random_text
+August,2022.0,Customer #90,Germany,1-10 Employees,Food,5539.0
+October,2022.0,Customer #88,Italy,11-50 Employees,Bevarage,17685.0
